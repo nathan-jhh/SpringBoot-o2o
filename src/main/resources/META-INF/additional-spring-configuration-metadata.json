@@ -1,0 +1,112 @@
+{"properties": [
+  {
+    "name": "jdbc.driver",
+    "type": "java.lang.String",
+    "description": "A description for 'jdbc.driver'"
+  },
+  {
+    "name": "jdbc.url",
+    "type": "java.lang.String",
+    "description": "A description for 'jdbc.url'"
+  },
+  {
+    "name": "jdbc.username",
+    "type": "java.lang.String",
+    "description": "A description for 'jdbc.username'"
+  },
+  {
+    "name": "jdbc.password",
+    "type": "java.lang.String",
+    "description": "A description for 'jdbc.password'"
+  },
+  {
+    "name": "mybatis_config_file",
+    "type": "java.lang.String",
+    "description": "A description for 'mybatis_config_file'"
+  },
+  {
+    "name": "mybatis_config_file",
+    "type": "java.lang.String",
+    "description": "A description for 'mybatis_config_file'"
+  },
+  {
+    "name": "mapper_path",
+    "type": "java.lang.String",
+    "description": "A description for 'mapper_path'"
+  },
+  {
+    "name": "type_alias_package",
+    "type": "java.lang.String",
+    "description": "A description for 'type_alias_package'"
+  },
+  {
+    "name": "redis.port",
+    "type": "java.lang.String",
+    "description": "A description for 'redis.port'"
+  },
+  {
+    "name": "redis.hostname",
+    "type": "java.lang.String",
+    "description": "A description for 'redis.hostname'"
+  },
+  {
+    "name": "redis.pool.maxActive",
+    "type": "java.lang.String",
+    "description": "A description for 'redis.pool.maxActive'"
+  },
+  {
+    "name": "redis.pool.maxIdle",
+    "type": "java.lang.String",
+    "description": "A description for 'redis.pool.maxIdle'"
+  },
+  {
+    "name": "kaptcha.image.height",
+    "type": "java.lang.String",
+    "description": "A description for 'kaptcha.image.height'"
+  },
+  {
+    "name": "redis.pool.maxWait",
+    "type": "java.lang.String",
+    "description": "A description for 'redis.pool.maxWait'"
+  },
+  {
+    "name": "redis.pool.maxWait",
+    "type": "java.lang.String",
+    "description": "A description for 'redis.pool.maxWait'"
+  },
+  {
+    "name": "redis.pool.testOnBorrow",
+    "type": "java.lang.String",
+    "description": "A description for 'redis.pool.testOnBorrow'"
+  },
+  {
+    "name": "redis.pool.maxActive",
+    "type": "java.lang.String",
+    "description": "A description for 'redis.pool.maxActive'"
+  },
+  {
+    "name": "kaptcha.border",
+    "type": "java.lang.String",
+    "description": "A description for 'kaptcha.border'"
+  },
+  {
+    "name": "kaptcha.textproducer.font.color",
+    "type": "java.lang.String",
+    "description": "A description for 'kaptcha.textproducer.font.color'"
+  },
+  {
+    "name": "kaptcha.image.width",
+    "type": "java.lang.String",
+    "description": "A description for 'kaptcha.image.width'"
+  },
+  {
+    "name": "kaptcha.textproducer.char.string",
+    "type": "java.lang.String",
+    "description": "A description for 'kaptcha.textproducer.char.string'"
+  },
+  {
+    "name": "kaptcha.textproducer.font.size",
+    "type": "java.lang.String",
+    "description": "A description for 'kaptcha.textproducer.font.size'"
+  }
+]}
